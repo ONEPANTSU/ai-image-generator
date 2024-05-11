@@ -1,4 +1,4 @@
-# [AI Image Generator](https://onepantsu-ai-image-generator.streamlit.app])
+# [AI Image Generator](https://onepantsu-ai-image-generator.streamlit.app)
 
 ## Run example
 ```bash
